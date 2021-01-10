@@ -13,11 +13,13 @@ $ID      = app::get(USER_ID);
 
 switch (($ROUTE)){
     case ROUTE_USERS:{
-        $products = new products() ;
+        echo 'hamid';
+        $users = new users();
         break ;
     }
     case ROUTE_PRODUCTS:{
-        $users = new users();
+        echo 'hashem';
+        $products = new products() ;
         break ;
     }
 
