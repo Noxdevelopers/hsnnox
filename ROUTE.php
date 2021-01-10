@@ -2,6 +2,8 @@
 
 define("ROUTE"           , "ROUTE");
 define("ACTION"          , "ACTION");
+define("SESSION"         , "SESSION");
+define("USER_ID"         , "ID");
 //Users
 define("ROUTE_USERS"     , "USERS");
 define("ACTION_LOGIN"    , "LOGIN");
