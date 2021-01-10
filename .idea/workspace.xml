@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be294528-c1ad-40bc-84d9-ba8833695733" name="Default Changelist" comment="hello" />
+    <list default="true" id="be294528-c1ad-40bc-84d9-ba8833695733" name="Default Changelist" comment="this is first change" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +55,7 @@
       <updated>1610228138990</updated>
       <workItem from="1610228140334" duration="2691000" />
       <workItem from="1610261664959" duration="3863000" />
-      <workItem from="1610268387033" duration="1980000" />
+      <workItem from="1610268387033" duration="2816000" />
     </task>
     <task id="LOCAL-00001" summary="hello">
       <created>1610268448760</created>
@@ -78,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610270185538</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="this is first change">
+      <created>1610270864176</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1610270864176</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,7 +104,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hello" />
-    <option name="LAST_COMMIT_MESSAGE" value="hello" />
+    <MESSAGE value="this is first change" />
+    <option name="LAST_COMMIT_MESSAGE" value="this is first change" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2587" y="365" width="575" height="357" key="#Notifications" timestamp="1610230007785">
@@ -123,13 +131,13 @@
     <state x="444" y="173" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1610268790159" />
     <state x="2364" y="179" width="1022" height="737" key="SettingsEditor/72.27.1848.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1610231569023" />
     <state x="499" y="202" width="984" height="737" key="SettingsEditor/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1610261844620" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1610270197683">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1610270872408">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1610270197683" />
-    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610270245675">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1610270872408" />
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610271752793">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1610270245675" />
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1610271752793" />
   </component>
 </project>
