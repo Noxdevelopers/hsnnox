@@ -5,3 +5,4 @@ define("DB_HOST", "localhost");
 define("DB_NAME", "art database");
 define("SUCCESS", "SUCCESS");
 define("FAILED", "FAILED");
+define("SUCCESSFUL_UPLOAD", "Post was uploaded successfully");

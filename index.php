@@ -11,14 +11,12 @@ $ROUTE   = app::get(ROUTE)  ;
 $SESSION = app::get(SESSION);
 $ID      = app::get(USER_ID);
 
-switch (($ROUTE)){
+switch ($ROUTE) {
     case ROUTE_USERS:{
-        echo 'hamid';
         $users = new users();
         break ;
     }
     case ROUTE_PRODUCTS:{
-        echo 'hashem';
         $products = new products() ;
         break ;
     }

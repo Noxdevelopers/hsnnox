@@ -18,5 +18,10 @@ define("ACTION_READ"     , "READ");
 define("ACTION_EDIT"     , "EDIT");
 define("ACTION_DELETE"   , "DELETE");
 define("INPUT_TITLE"     , "TITLE");//h
-define("INPUT_MESSAGE"   , "MESSAGE");//h
+define("INPUT_DETAIL"    , "DETAIL");//A
+define("INPUT_PRICE"     , "PRICE");//A
+define("INPUT_SORT"      , "SORT");//A
+define("INPUT_START"     , "START");//A
+define("INPUT_AD_ID"     , "AD_ID");//A
+define("UPLOAD_DIRECTORY", "uploads/product_image/");//A
 define("INPUT_IMAGE"     , "IMAGE");
